@@ -5,7 +5,8 @@ End to End Project with SnowPark -
 
 Prerequisites
 Snowflake Free Trial
-
+Snowpark Python Connector
+VS Code
 
 Python version 3.8*
 Higher versions of Python are not supported by Snowflake Connectors
